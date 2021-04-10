@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+body
+{background:pink;}
+
+
+h1
+{font-size: 60px;
+color:black;}
+
+button
+{font-size: 30px;
+background: pink;
+font-family: "Caveat";}
